@@ -1,0 +1,20 @@
+userinterface/LogInPage.java
+ userinterface.LogInPage
+userinterface/ConfirmationPage.java
+ userinterface.ConfirmationPage
+models/Credentials.java
+ models.Credentials
+userinterface/ProductsPage.java
+ userinterface.ProductsPage
+userinterface/YouCartPage.java
+ userinterface.YouCartPage
+tasks/OpenApp.java
+ tasks.OpenApp
+tasks/LogIn.java
+ tasks.LogIn
+questions/TextTarget.java
+ questions.TextTarget
+util/ReadCredentialsWeb.java
+ util.ReadCredentialsWeb
+userinterface/CheckOutPage.java
+ userinterface.CheckOutPage
