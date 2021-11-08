@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
-        features = {"src/test/resources/features/add_to_cart.feature"},
+        features = {"src/test/java/resources/features/add_to_cart.feature"},
         glue = {"stepdefinitions"},
         snippets = SnippetType.CAMELCASE)
 
